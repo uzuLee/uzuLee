@@ -24,11 +24,14 @@
 
 <br>
 
+<h3 align="center"><b> License Notice </b></h3>
+<a href="https://velog.io/@uzulee/posts?tag=license" target="_blank"><img src="https://velog-readme-stats.vercel.app/api?name=uzulee&tag=license"/></a>
+
+<br>
+
 <h3 align="center"><b> Lastest Posts 📑 </b></h3>
 <a href="https://velog.io/@uzulee" target="_blank"><img src="https://velog-readme-stats.vercel.app/api/list?name=uzulee"/></a>
 
-<br>
-<br>
 <br>
 
 <div align="center">
