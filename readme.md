@@ -25,7 +25,7 @@
 <br>
 
 <h3 align="center"><b> License Notice </b></h3>
-<a href="https://velog.io/@uzulee/posts?tag=license" target="_blank"><img src="https://velog-readme-stats.vercel.app/api?name=uzulee&tag=license"/></a>
+<a href="https://velog.io/@uzulee/series/License-Notice" target="_blank"><img src="https://velog-readme-stats.vercel.app/api?name=uzulee&tag=license"/></a>
 
 <br>
 
