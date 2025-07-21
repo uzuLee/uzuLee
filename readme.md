@@ -36,6 +36,7 @@
 
 <div align="center">
  <h3><b> 📊 Github Stats 📊 </b></h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=uzuLee&hide=contribs,prs&show_icons=true&theme=gruvbox&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uzuLee&hide=contribs,prs&show_icons=true&theme=gruvbox&hide_border=true" align="center"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzulee&langs_count=5&layout=compact" align="center" />
 </div>
